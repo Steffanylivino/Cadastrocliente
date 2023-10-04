@@ -21,7 +21,6 @@ este é um projeto que funciona como uma pokédex, ele exibe as seguintes inform
 - ID
   
 este projeto tem a finalidade de capitar e cadastrar novos clientes, como: Nome, E-mail, Celular, e Cidade. para melhor organização e praticidade.
-<p>Preview do meu projeto <a href="https://steffanylivino.github.io/Pokedex/">Cadastro de Clientes  </a>
-</p>
+
 
 Feito com ♥ by Steffany Livino  
