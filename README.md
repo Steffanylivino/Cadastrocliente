@@ -4,7 +4,7 @@
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
   <p align="center">
-  <img alt="cadastro" src="./img/cadastro.png" width="100%" >
+  <img alt="cadastro" src="img/cadastro.png" width="100%" >
 </p>
 
 ## 🚀 Tecnologias
