@@ -2,7 +2,9 @@
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-
+<p align="center">
+  <img alt="Cadastro" src="cadastro.png width="100%">
+</p>
 
 ## 🚀 Tecnologias
 
