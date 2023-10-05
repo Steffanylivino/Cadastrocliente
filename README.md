@@ -16,13 +16,13 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 
 ## 💻 Projeto
-este é um projeto que funciona como uma pokédex, ele exibe as seguintes informações sobre 650 Pokémons diferentes evoluções e personagens:
+Este Projeto funcionar com cadastro de novos clientes , com as seguintes informações :
 
-- Imagem
 - Nome
-- ID
+- Telefon
+- Email
+- Estado
   
-este projeto tem a finalidade de capitar e cadastrar novos clientes, como: Nome, E-mail, Celular, e Cidade. para melhor organização e praticidade.
+Melhorando a organização e também uma Base de Dados para futuras analises 
 
-
-Feito com ♥ by Steffany Livino  
+                                                          Feito com ♥ by Steffany Livino  
